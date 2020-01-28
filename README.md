@@ -1,6 +1,6 @@
 # BSYS-Exercise_33
 
-Server 4 benötigt zusätzliche flag '-lrt' zum compilen.
+Server 4 benötigt zusätzliche flag '-lrt' zum kompilieren.
 
 Wir haben jeweils server3 & client3 und server4 & client4 in jeweils einer cmd ganz ohne Parameter gestartet.
 Wenn Server und Client laufen, im Client-Fenster die gewünschte Datei, bzw. ihr Pfad eingeben und mit Enter bestätigen. 
